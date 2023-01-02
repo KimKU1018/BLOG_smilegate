@@ -10,4 +10,5 @@ https://github.com/KimKU1018/sMILEGRAM
 ## 게시글 화면
 <img width="504" alt="스게_2" src="https://user-images.githubusercontent.com/86593582/210240923-5790817d-1a88-404f-bdec-08e3f6e0a7cb.png">
 
-
+## 게시판 화면
+![스게_3](https://user-images.githubusercontent.com/86593582/210240984-8bb33d36-9d4d-47ab-b366-413094dafc0c.png)
